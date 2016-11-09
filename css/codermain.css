@@ -1,0 +1,65 @@
+.container {
+    margin: 0 auto;
+    width: 650px;
+    border: 1px solid black;
+    height: 1180px;
+}
+
+.circulo {
+    border-radius: 100%;
+    margin-left: 230px;
+    width: 175px;
+    margin-top: 20px;
+}
+
+h1, p {
+    text-align: center;
+}
+p{
+    padding: 40px;
+}
+h2{
+    font-size: 30px;
+}
+
+
+
+.html,.CSS,.javaScrip{
+	height: 30px;
+	background: grey;
+	line-height: 30px;
+	color:white;
+	padding:10px;
+}
+.html{
+	width: 450px;
+	margin-bottom: 20px;
+}
+.CSS{
+	width: 350px;
+	margin-bottom: 20px;
+}
+.javaScrip{
+	width: 250px;
+}
+
+
+
+
+.p1,.p2{
+	display: inline-block;
+    position: relative;
+    padding:60px;
+}
+.p5,.p6,.p8{
+	width: 172px;
+	position: relative;
+	left: 20px;
+	padding: 14px;
+}
+.c-lenguajes {
+    margin: 0 40px 0 40px;
+}
+h2 {
+    padding: 0 20px 0 20px;
+}
